@@ -1,0 +1,16 @@
+{
+  "name": "github-actions-test",
+  "version": "1.0.0",
+  "description": "Teste",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo Teste funcionando!"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Clara098-hash/github-actions-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
